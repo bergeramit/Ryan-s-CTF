@@ -29,5 +29,5 @@ Great! Next we need to find the location in order to cat the flag.
 ...Output:/lib/x86_x64-linux-gnu/security: ...
 ```
 
-Now we cat this path to get the flag: minuend
+Now we cat this path to get the flag: muntjac
 
